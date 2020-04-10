@@ -1,2 +1,2 @@
-# UV-C-Light-cabinet-to-decontaminate-used-FFR-masks-
+# C19UVCSteriliserForFFR
 DIY UV-C Light cabinet to sterilise used FFR mask
